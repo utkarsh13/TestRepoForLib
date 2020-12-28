@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
 
         TestClass.toast(this)
 
-        Log.v("MainActivity", "TestClass ")
+        Log.v("MainActivity", "TestClass")
 
     }
 }
